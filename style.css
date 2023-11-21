@@ -474,3 +474,12 @@ label{
 	text-align: center;
 	
 }
+[type="Submit"],[type="button"]{
+	width: 100%;
+	background: var(--main-color);
+	color: white;
+	border: none;
+	padding: 10px 12px;
+	margin-top: 10px;
+	border-radius: 5px;
+}
