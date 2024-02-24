@@ -10,6 +10,7 @@
 	<link rel="stylesheet"
   href="https://unpkg.com/boxicons@latest/css/boxicons.min.css">
   <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,600;1,400;1,500&family=Lobster&family=Montserrat:ital,wght@0,300;0,400;1,400;1,500&family=Quicksand&display=swap" rel="stylesheet">
 </head>
@@ -48,7 +49,7 @@
 			
 		</div>
 		<div class="home-img">
-			<img src="hon.jpg">
+			<img src="https://media.gettyimages.com/id/522287874/photo/honey-flowing-from-the-sieve-to-bottom-of-honey-ripener.jpg?s=612x612&w=0&k=20&c=CEB1nxa72yt4qa9QL7kwQzsKYiV_qBu6BD09VVjHhEo=">
 			
 		</div>
 		
@@ -60,21 +61,21 @@
 	<section class="container">
 	
 			<div class="container-box">
-				<img src="oran.jpg">
+			<i class="fa-regular fa-clock"></i>
 				<h3>11:00-8:30 pm</h3>
 				<a href="#">Working Hours</a>
 				
 			</div>
 
 			<div class="container-box">
-				<img src="loc.jpg">
+			<i class="fa-solid fa-diamond-turn-right"></i>
 				<h3>Nairobee Springs 555</h3>
 				<a href="#">Get Directions</a>
 				
 			</div>
 
 			<div class="container-box">
-				<img src="call.jpg">
+			<i class="fa-solid fa-phone"></i>
 				<h3>+254-70-017-9228</h3>
 				<a href="#">Call Us Now</a>
 				
@@ -85,7 +86,7 @@
 	<!--about us-->
 	<section class="about" id="about">
 		<div class="about-img">
-			<img src="honey.jpg">
+			<img src="https://media.gettyimages.com/id/115197596/photo/golden-cascade.jpg?s=612x612&w=0&k=20&c=t3stoBvyWswHaAj6HICEa0vn5ZZ8Pl2jdzRfc89PcYw=">
 			
 		</div>
 		<div class="about-text">
@@ -106,7 +107,7 @@
 		</div>
 		<div class="shop-content">
 			<div class="row">
-				<img src="blu.jpg">
+				<img src="https://th.bing.com/th/id/OIP.AAcF79MwwKi0juFNbSUWoQHaHa?w=198&h=198&c=7&r=0&o=5&dpr=1.5&pid=1.7">
 				<h3>Blueberry Honey</h3>
 				<p>Blueberry honey is produced by honeybees that feed on blueberry plants. Raw blueberry honey is sweet with fruity and tangy undertones. It has a light touch of blueberry flavor on the back of your tongue. </p>
 				<div class="in-text">
@@ -127,7 +128,7 @@
 			</div>
 
 			<div class="row">
-				<img src="wea.jpg">
+				<img src="https://th.bing.com/th/id/OIP.WNjsSSg-Z9vWMjGCSI08rAHaIz?w=182&h=216&c=7&r=0&o=5&dpr=1.5&pid=1.7">
 				<h3>Buckwheat Honey</h3>
 				<p> Buckwheat honey is a highly nutritious honey made by bees that collect nectar from buckwheat flowers. Buckwheat honey is rich in vitamins and is considered a very healthy food, so it makes sense that honey made from buckwheat would also be good for you. </p>
 				<div class="in-text">
@@ -147,7 +148,7 @@
 				</div>
 			</div>
 			<div class="row">
-				<img src="tupelo.jpg">
+				<img src="https://th.bing.com/th/id/OIP.aIZUgWHL79oI0lZE2btGgQHaJ4?w=118&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7">
 				<h3>Tupelo Honey</h3>
 				<p>Tupelo honey is a unique type of honey that is produced from the nectar of the White Ogeechee Tupelo trees. </p>
 				<div class="in-text">
@@ -168,7 +169,7 @@
 			</div>
 
 			<div class="row">
-				<img src="sour.jpg">
+				<img src="https://th.bing.com/th/id/OIP.Tq4-GkYfaLye2ra1l7oECgHaFm?w=249&h=188&c=7&r=0&o=5&dpr=1.5&pid=1.7">
 				<h3>Sourwood Honey</h3>
 				<p>Sourwood honey is a type of honey derived from the nectar of the sourwood tree, which grows in the Appalachian Mountains of North Georgia. </p>
 				<div class="in-text">
